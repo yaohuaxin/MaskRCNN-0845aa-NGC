@@ -1,4 +1,8 @@
 # Mask R-CNN For PyTorch
+
+The code is copied from https://github.com/NVIDIA/DeepLearningExamples.git, PyTorch/Segmentation/MaskRCNN, commit ID: 0845aaa90187e0b79d244648deb2c9656bd6fb66
+
+
 This repository provides a script and recipe to train and infer on MaskRCNN to achieve state of the art accuracy, and is tested and maintained by NVIDIA.
 
 ## Table Of Contents
